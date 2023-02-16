@@ -20,6 +20,7 @@ dependencies {
     implementation wpi.java.vendor.java()
     
     testImplementation 'junit:junit:4.13.1'
+    implementation 'com.elmakers.math:exp4j:1.0'
 }
 
 publishing {
